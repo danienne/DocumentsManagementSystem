@@ -1,10 +1,12 @@
 # DocumentsManagementSystem
-Como rodar a aplicação<br>
-Requisitos<br>
-⦁	Visual Studio 2017<br>
-⦁	 node.js<br>
-⦁	angular cli<br>
-⦁	SQL SERVER management tool<br>
+	Como rodar a aplicação<br><br>
+	
+	Requisitos<br>
+	⦁	Visual Studio 2017<br>
+	⦁	 node.js<br>
+	⦁	angular cli<br>
+	⦁	SQL SERVER management tool<br>
+	
 Passo-a-Passo<br>
 1.	Na sua ferramente de SQL SERVER criar uma base de dados chamada "DocumentManagementSystemDB" e criar um usuário "sa" com a senha "123456" e atribuir "db_owner" para o banco de dados criado.
 2.	Abrir a solution "DocumentManagementSystem.sln" no Visual Studio.
