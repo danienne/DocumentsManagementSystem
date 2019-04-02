@@ -6,6 +6,7 @@ Requisitos<br>
 	⦁	 node.js<br>
 	⦁	angular cli<br>
 	⦁	SQL SERVER management tool<br>
+	⦁	Conexão a internet para o Materialize.css funcionar<br>
 	
 Passo-a-Passo<br>
 1.	Na sua ferramente de SQL SERVER criar uma base de dados chamada "DocumentManagementSystemDB" e criar um usuário "sa" com a senha "123456" e atribuir "db_owner" para o banco de dados criado.
