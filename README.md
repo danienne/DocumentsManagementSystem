@@ -1,7 +1,7 @@
 # DocumentsManagementSystem
-	Como rodar a aplicação<br><br>
+Como rodar a aplicação<br><br>
 	
-	Requisitos<br>
+Requisitos<br>
 	⦁	Visual Studio 2017<br>
 	⦁	 node.js<br>
 	⦁	angular cli<br>
