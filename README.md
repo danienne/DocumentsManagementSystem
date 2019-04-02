@@ -11,6 +11,7 @@ Passo-a-Passo<br>
 1.	Na sua ferramente de SQL SERVER criar uma base de dados chamada "DocumentManagementSystemDB" e criar um usuário "sa" com a senha "123456" e atribuir "db_owner" para o banco de dados criado.
 2.	Abrir a solution "DocumentManagementSystem.sln" no Visual Studio.
 3.	Abrir o arquivo "Web.config" dentro do projeto "DocumentManagementSystem.WebApi"
+4.	Clicar com o botão direito na solution e clicar em "Restore Nuget Packages".
 4.	Alterar a connectionString colocando o "Data Source" correto de sua máquina.
 5.	Abrir o "Package Manager Console", selecionar o Default project "DocumentManagementSystem.Repository" e executar a seguinte linha de comando, "Update-Database".
 6.	Abrir a pasta "DocumentManagementSystem\DocumentManagementSystem.WebApi\ClientApp\document-management-system\src\app", clicar com o botão direito segurando a tecla shift, clicar na opção "Abrir janela do PowerShell aqui".
