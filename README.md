@@ -20,5 +20,5 @@ Passo-a-Passo<br>
 10.	Ir para o localhost:4200.
 	
 Para rodar os testes unitários, basta executar no visual studio através da opção na barra superior, "Test > Run > All Tests".
-Para verificação dos logs criados entrar na seguinte pasta, "DocumentManagementSystem\DocumentManagementSystem.WebApi\LogBackUp"
+Para verificação dos logs criados entrar na seguinte pasta, "DocumentManagementSystem\DocumentManagementSystem.WebApi\LogBackUp".<br>
 Isso é tudo :)
